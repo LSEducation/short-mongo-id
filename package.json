@@ -7,7 +7,7 @@
 		"short-id",
 		"shortener"
 	],
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"dependencies": {
 		"bson" : "0.2.x"
 	},
