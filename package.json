@@ -9,7 +9,7 @@
 	],
 	"version": "0.0.2",
 	"dependencies": {
-		"bson" : "0.2.x"
+		"bson" : "~0.4.19"
 	},
 	"scripts" : {
 		"test" : "node test/test.js"
